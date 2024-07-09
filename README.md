@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I am a passionate Data Science student, constantly exploring the world of data and its endless possibilities. My journey in data science involves learning and working with various tools and technologies to extract meaningful insights and build impactful solutions.<br>🤝 I’m looking for help with internship and workshops<br>🌱 I’m currently learning Data Science<br>💞️ I’m looking to collaborate on Research about Data Science,<br>📫 How to reach me at vchinmayr2@gmail.com
+Hello! 👋 I am a passionate Data Science student, constantly exploring the world of data and its endless possibilities. My journey in data science involves learning and working with various tools and technologies to extract meaningful insights and build impactful solutions.<br>🤝 I’m looking for help with internship and workshops<br>🌱 I’m currently learning Data Science<br>💞️ I’m looking to collaborate on Research about Data Science,<br>📫 Reach me at vchinmayr2@gmail.com
 
 
 ## 🌐 Socials:
